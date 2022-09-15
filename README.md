@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Grol-DBT, co-founder of Do Better Tech Worker Cooperative.
+- 👀 I’m interested in Cybersecurity, Web Development, Blockchain Development
+- 🌱 I’m currently learning about the Cosmos blockchain ecosystem
+- 💞️ I’m looking to collaborate on more basic coding projects, as I'm still a novice at this point.
+- 📫 You can reach me at awebster@dobettertech.com
